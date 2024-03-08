@@ -1,0 +1,140 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* -------------navigation bar------------------------------------------------------------------------- */
+ul li a:hover {
+  background-color: #535c91;
+  /* color: rgb(224, 38, 38); */
+}
+
+/* ---------main section------- */
+/* main{
+   
+} */
+
+main section .intro {
+  max-height: 600px;
+  /* background-color:#0C359E; */
+}
+
+main section .intro-left {
+  font-size: 30px;
+  font-family: "Kanit", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+main .intro {
+  background-color: hsl(222, 29%, 91%);
+}
+
+main section div img {
+  max-height: 100%;
+  max-width: 100%;
+  /* background-color: #0C359E; */
+}
+
+/* learnig of coding */
+.learning {
+  height: 1000px;
+  background-color: hsl(222, 29%, 91%);
+}
+
+.learning > h2 {
+  font-size: 60px;
+  font-family: "Kanit", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.learning section .horiz {
+  width: 100%;
+  border-top: 5px solid red;
+}
+
+.learning section .line2 {
+  height: 150px;
+  width: 100px;
+  border-left: 2px solid darkblue;
+  background-color: red;
+}
+
+/* ------------footer---------------- */
+
+footer {
+  background-color: #1b3c73;
+  
+  font-family: "Kanit", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+
+  font-size: 15px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+
+
+/* main  .edu{
+    height: 1000px;
+}
+main .edu div .vertical{
+    height: 150px;
+    border-left: 2px;
+    border-width: 2px;
+    border-color:aquamarine;
+    width: 1px;
+
+}
+main section #years{
+    width: 100%;
+} */
+
+/* utility material */
+
+/* <link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap"
+  rel="stylesheet"
+/>
+.protest-revolution-regular { font-family: "Protest Revolution", sans-serif;
+font-weight: 400; font-style: normal; }
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Protest+Revolution&display=swap"
+  rel="stylesheet"
+/>
+.kanit-thin { font-family: "Kanit", sans-serif; font-weight: 100; font-style:
+normal; } .kanit-thin-italic { font-family: "Kanit", sans-serif; font-weight:
+100; font-style: italic; } .kanit-extralight { font-family: "Kanit",
+sans-serif; font-weight: 200; font-style: normal; } .kanit-extralight-italic {
+font-family: "Kanit", sans-serif; font-weight: 200; font-style: italic; }
+.kanit-light { font-family: "Kanit", sans-serif; font-weight: 300; font-style:
+normal; } .kanit-light-italic { font-family: "Kanit", sans-serif; font-weight:
+300; font-style: italic; } .kanit-regular { font-family: "Kanit", sans-serif;
+font-weight: 400; font-style: normal; } .kanit-regular-italic { font-family:
+"Kanit", sans-serif; font-weight: 400; font-style: italic; } .kanit-medium {
+font-family: "Kanit", sans-serif; font-weight: 500; font-style: normal; }
+.kanit-medium-italic { font-family: "Kanit", sans-serif; font-weight: 500;
+font-style: italic; } .kanit-semibold { font-family: "Kanit", sans-serif;
+font-weight: 600; font-style: normal; } .kanit-semibold-italic { font-family:
+"Kanit", sans-serif; font-weight: 600; font-style: italic; } .kanit-bold {
+font-family: "Kanit", sans-serif; font-weight: 700; font-style: normal; }
+.kanit-bold-italic { font-family: "Kanit", sans-serif; font-weight: 700;
+font-style: italic; } .kanit-extrabold { font-family: "Kanit", sans-serif;
+font-weight: 800; font-style: normal; } .kanit-extrabold-italic { font-family:
+"Kanit", sans-serif; font-weight: 800; font-style: italic; } .kanit-black {
+font-family: "Kanit", sans-serif; font-weight: 900; font-style: normal; }
+.kanit-black-italic { font-family: "Kanit", sans-serif; font-weight: 900;
+font-style: italic; } https://kumarrajusahu.github.io/iCode/ bg-body-tertiary */
