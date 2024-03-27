@@ -14,10 +14,10 @@ ul li a:hover {
 }
 
 /* ---------main section------- */
- main intro{
+/*  main intro{
    margin-left:2px;
 } 
-
+ */
 main section .intro {
   max-height: 600px;
   /* background-color:#0C359E; */
