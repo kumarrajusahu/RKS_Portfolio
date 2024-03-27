@@ -14,27 +14,27 @@ ul li a:hover {
 }
 
 /* ---------main section------- */
-/*  main intro{
+/* div intro{
    margin-left:2px;
 } 
  */
-main section .intro {
+div section .intro {
   max-height: 600px;
   /* background-color:#0C359E; */
 }
 
-main section .intro-left {
+div section .intro-left {
   font-size: 30px;
   font-family: "Kanit", sans-serif;
   font-weight: 500;
   font-style: normal;
 }
 
-main .intro {
+div .intro {
   background-color: hsl(222, 29%, 91%);
 }
 
-main section div img {
+div section div img {
   max-height: 100%;
   max-width: 100%;
   /* background-color: #0C359E; */
