@@ -15,7 +15,9 @@ ul li a:hover {
 
 /* ---------main section------- */
 /* div intro{
-   margin:auto;
+  
+margin-left: auto;
+margin-right: auto;
 } 
  */
 div section .intro {
