@@ -14,9 +14,9 @@ ul li a:hover {
 }
 
 /* ---------main section------- */
-/* main{
-   
-} */
+ main{
+   padding-left:2px;
+} 
 
 main section .intro {
   max-height: 600px;
